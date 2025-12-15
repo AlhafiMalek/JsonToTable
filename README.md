@@ -17,8 +17,8 @@ A lightweight **vanilla JavaScript** table component that renders JSON arrays in
 
 ## Demo / Docs
 
-- `docs.html` → documentation page
-- `examples.html` → examples page (with sticky grouped sidebar + active section highlight)
+- https://malekalhafi.com/JsonToTable/ → documentation page
+- https://malekalhafi.com/JsonToTable/examples.html → examples page (with sticky grouped sidebar + active section highlight)
 
 ---
 
